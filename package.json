@@ -1,24 +1,6 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "fullgoal-webview-bridge@^0.1.0",
-        "scope": null,
-        "escapedName": "fullgoal-webview-bridge",
-        "name": "fullgoal-webview-bridge",
-    },
-      "/Users/zhubingbing/Desktop/fullgoalApp"
-    ]
-  ],
-  
 
-
-  
-  "contributors": [
-    {
-      "name": "Hunter Medney"
-    }
-  ],
+ 
   "dependencies": {
     "invariant": "2.2.0",
     "keymirror": "0.1.1"
@@ -33,11 +15,11 @@
   ],
   "license": "MIT",
   
-  "name": "fullgoal-webview-bridge",
+  "name": "zbb-webview-bridge",
   "repository" :  
   { "type" : "git"  
-  , "url" : "https://github.com/daizhiyu/fullgoal-webview-bridge.git"  
-  }  
+  , "url" : "https://github.com/1054949000/zbb-webview.git"  
+  },
 
   "version": "0.1.0"
 }
